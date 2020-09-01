@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "async": "^2.5.0",
-    "buefy": "^0.5.4",
+    "buefy": "^0.7.2",
     "cosmicjs": "^2.4.20",
     "css-loader": "^0.28.7",
     "font-awesome": "^4.7.0",
