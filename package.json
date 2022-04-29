@@ -14,7 +14,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^2.6.4",
     "buefy": "^0.5.4",
     "cosmicjs": "^2.4.20",
     "css-loader": "^0.28.7",
